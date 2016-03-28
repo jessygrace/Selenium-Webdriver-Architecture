@@ -89,4 +89,4 @@ Need certainly to begin ie with sameANDunique profile.</p>
 <p><strong>You may also consider adjusting IE options to be tight (eg Tool-&quot;&gt;&gt;Internet Alternatives-&quot;&gt;&gt;Sophisticated-&quot;&gt;&gt;Screen<br />
 Notice on every software error) to get selenium hook any javascript concernsPERinsects in your site.</strong></p>
 
-<p>For more information:&nbsp;<a href="http://seleniumtutorialsforbeginners.com/​" target="_blank">http://seleniumtutorialsforbeginners.com/</a></p>
+<p>For more information:&nbsp;<a href="http://seleniumtutorialsforbeginners.com/" target="_blank">http://seleniumtutorialsforbeginners.com/</a></p>
